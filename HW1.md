@@ -1,32 +1,37 @@
-And Gate
-![](../Pictures/777708_773638_ans_a65eb18b9e80492486bfe8ea55163ac3.png)
+NOT gate
 
 not gate used to inverse the input and output an oposite value.
 
-
-![](../Pictures/git/Not-gate-truthtable.jpg)
+![](media/gates/NOT.png)
 
 
 And Gate
 
-![](../Pictures/git/04101.png)
+![](media/gates/AND.png)
 
 And Gate need both input with value of 1 to output a value of 1
 
 
 Or gate
 
-![](../Pictures/git/2-Input-OR-Gate-Truth-Table.jpg)
+![](media/gates/OR.jpg)
+
 Or gate would output a value of 1, with either x or y having a value of 1.
 
 Xor gate
-![](../Pictures/git/xor-gate-symbol.jpg)
+
+![](media/gates/XOR.jpg)
+
 xor gate would output a value of 1, if either A or B have a value of 1, but not both with the value of 1.
 
 Mux	gate
-![](../Pictures/git/qKv9u.png)
+
+![](media/gates/MULTIPLEXER.png)
+
 A multiplexer makes it possible for several input signals to share one device or resource
 
 Demux gate
-![](../Pictures/git/2-Figure2-1.png)
+
+![](media/gates/DEMUX.png)
+
 The signal on the select line helps to switch the input to one of the two outputs.
