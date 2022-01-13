@@ -91,3 +91,4 @@ Fill:
     M=-1
     @18
     0;JMP       //開始下次迴圈
+![image](https://github.com/vin6969/co110a/blob/master/media/gates/fill.JPG)
